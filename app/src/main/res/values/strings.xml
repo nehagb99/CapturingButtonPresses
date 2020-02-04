@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Capturing Button Presses</string>
+    <string name="click_button">Submit</string>
+</resources>
